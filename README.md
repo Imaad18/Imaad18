@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on ml projects.
+I'm currently working on ML/AI projects & API Based Projects.
 
 
 ## 🌐 Socials:

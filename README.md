@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0533,100:0d0221&height=220&section=header&text=Imaad%20Mahmood&fontSize=52&fontColor=c084fc&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Generative%20AI%20Specialist&descAlignY=58&descAlign=50&descColor=a78bfa" />
+<img src="assets/banner.jpeg" alt="Imaad Mahmood — AI/ML Engineer" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Kaggle+Competitions+Expert+%E2%80%94+Top+0.5%25+Globally+%F0%9F%8F%86;Building+RAG+Pipelines+%7C+LLM+Systems+%7C+ML+APIs;Stanford+%7C+IBM+%7C+Microsoft+Azure+Certified;Turning+data+into+deployed%2C+production-ready+AI)](https://git.io/typing-svg)
 

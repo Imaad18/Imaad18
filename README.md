@@ -1,121 +1,256 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Imaad+%F0%9F%91%8B;ML+%26+AI+Engineer;API+%26+Backend+Developer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+
+<img src="assets/banner.jpeg" alt="Imaad Mahmood — AI/ML Engineer" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Kaggle+Competitions+Expert+%E2%80%94+Top+0.5%25+Globally+%F0%9F%8F%86;Building+RAG+Pipelines+%7C+LLM+Systems+%7C+ML+APIs;Stanford+%7C+IBM+%7C+Microsoft+Azure+Certified;Turning+data+into+deployed%2C+production-ready+AI)](https://git.io/typing-svg)
+
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:0d1117&height=3" width="100%"/>
 
-## 💫 About Me
+<br/>
 
-- 🔭 Currently building **ML/AI projects** and **API-based applications**
-- 🌱 Deep-diving into **Deep Learning**, **LLMs**, and **MLOps**
-- 💡 Passionate about turning data into intelligent, production-ready solutions
-- 🛠️ Love working across the full stack — from raw data pipelines to deployed APIs
-- 📫 Reach me at **imaad18102004@gmail.com**
+<div align="center">
 
----
+### At a Glance
 
-## 🌐 Socials
+| | |
+|:---:|:---:|
+| 🏆 **Kaggle Competitions Expert** | Top 0.5% globally — Rank **885 / 202,866** |
+| 📓 **Kaggle Notebooks Expert** | Top 0.2% globally — Rank **131 / 59,890** |
+| 🥇 Kaggle Medals | 2 Gold · 5 Silver · 15 Bronze across 29 competitions |
+| 🎓 Degree | B.Sc. Artificial Intelligence — Islamia University of Bahawalpur (2024–2028) |
+| 💼 Freelance | 5-star rated AI Engineer on Upwork |
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imaad-mahmood-40388831b)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imaad18102004@gmail.com)
+</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a0533&height=3" width="100%"/>
 
-## 💻 Tech Stack
+<br/>
 
-**Languages**
+## ◈ Who I Am
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
+I'm an **AI/ML Engineer and Data Scientist** specializing in **Generative AI, LLM systems, and end-to-end ML pipelines**. I combine competition-grade modeling skills (top 0.5% on Kaggle) with real-world engineering — building and deploying intelligent systems that go beyond notebooks into production.
 
-**ML / AI**
+Currently focused on: **RAG architectures, LLMOps, and AI-powered API products.**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:0d1117&height=3" width="100%"/>
 
-**Data & Visualization**
+<br/>
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white)
+## ◈ Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Enterprise RAG & LLMOps Evaluation Pipeline](https://github.com/Imaad18/enterprise-rag-eval)
+Production-ready **local RAG system** with a full automated evaluation suite. Uses LangChain + ChromaDB for retrieval, integrates local LLMs (no external API cost), and runs pytest-based answer quality benchmarks — built to enterprise standards.
+
+`LangChain` `ChromaDB` `Local LLM` `LLMOps` `pytest` `Python`
+
+</td>
+<td width="50%" valign="top">
+
+### [FluxCode — AI Coding Assistant & Debugger](https://github.com/Imaad18/FluxCode)
+Intelligent AI-powered coding assistant with **real-time code analysis**, automated debugging, and contextual suggestions. Full-stack app with a FastAPI backend and interactive Streamlit frontend.
+
+`LLM` `FastAPI` `Streamlit` `Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [FinCast Pro — Financial Forecasting](https://github.com/Imaad18/fincast-pro)
+ML-powered **stock and market forecasting** tool. Applies time-series modeling and predictive analytics to financial data, delivering forward-looking insights through an interactive dashboard.
+
+`PyTorch` `Pandas` `Plotly` `Streamlit` `Python`
+
+</td>
+<td width="50%" valign="top">
+
+### [Movie Recommendation Engine](https://github.com/Imaad18/Movie-Recommendation-System)
+**Content-based recommendation system** using NLP and cosine similarity to surface personalized movie suggestions. Processes metadata, genres, and plot features to model user preferences at scale.
+
+`scikit-learn` `NLP` `Pandas` `Streamlit` `Python`
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a0533&height=3" width="100%"/>
+
+<br/>
+
+## ◈ What Clients Say
+
+> *"Imaad delivered high-quality AI and LLM solutions with excellent attention to scalability and reliability. Communication was clear, deadlines were met, and he proactively improved our automation workflows. Highly professional."*
+>
+> — ⭐⭐⭐⭐⭐ **Senior Applied AI Engineer (LLMs & Automation)** — Upwork
+
+> *"Imaad delivered a clean and well-structured Python data processing script that worked perfectly on our dataset. The solution handled missing values, removed outliers, and generated a clear analytics report automatically."*
+>
+> — ⭐⭐⭐⭐⭐ **Python Developer — Data Processing** — Upwork
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:0d1117&height=3" width="100%"/>
+
+<br/>
+
+## ◈ Certifications
+
+| Issuer | Certification |
+|---|---|
+| 🎓 Stanford Online | Machine Learning |
+| 🔵 IBM | IBM Data Science Professional |
+| ☁️ Microsoft | Introduction to Microsoft Azure Cloud Services |
+| 🔴 Arizona State University | Modern Statistics for Data-Driven Decision-Making |
+| 🔍 Google | Prompting Essentials |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a0533&height=3" width="100%"/>
+
+<br/>
+
+## ◈ Core Skills
+
+<table>
+<tr>
+<td valign="top" width="25%">
+
+**Generative AI & LLMs**
+- RAG Pipelines
+- LangChain / LLMOps
+- Prompt Engineering
+- Local LLM deployment
+
+</td>
+<td valign="top" width="25%">
+
+**ML & Deep Learning**
+- PyTorch / TensorFlow / Keras
+- scikit-learn / XGBoost
+- Computer Vision, NLP
+- MLflow / Experiment tracking
+
+</td>
+<td valign="top" width="25%">
 
 **Backend & APIs**
+- FastAPI / Flask / Django
+- Streamlit dashboards
+- REST API design
+- Socket.io
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101)
+</td>
+<td valign="top" width="25%">
 
-**Cloud & DevOps**
+**Data & Cloud**
+- Pandas / NumPy / Spark
+- Plotly / Matplotlib
+- Azure / Heroku
+- SQL / SQLite
 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+</td>
+</tr>
+</table>
 
-**Databases & Tools**
+**Languages:** Python · C++ · R · SQL
 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
+<br/>
 
----
+## ◈ Tech Stack
 
-## 📊 GitHub Stats
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=c084fc)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=PyTorch&logoColor=ee4c2c)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=TensorFlow&logoColor=ff6f00)
+![Keras](https://img.shields.io/badge/Keras-0d1117?style=flat-square&logo=Keras&logoColor=d00000)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=f7931e)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=c084fc)
+![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=44b78b)
+![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=fe4b4b)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=c084fc)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=a78bfa)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=4dabf7)
+![Plotly](https://img.shields.io/badge/Plotly-0d1117?style=flat-square&logo=plotly&logoColor=7c3aed)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-0d1117?style=flat-square&logo=apachespark&logoColor=e25a1c)
+![MLflow](https://img.shields.io/badge/MLflow-0d1117?style=flat-square&logo=mlflow&logoColor=0194e2)
+![Azure](https://img.shields.io/badge/Azure-0d1117?style=flat-square&logo=microsoftazure&logoColor=0078d4)
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=a78bfa)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=c%2B%2B&logoColor=00599c)
+![R](https://img.shields.io/badge/R-0d1117?style=flat-square&logo=r&logoColor=276dc3)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=f05033)
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:0d1117&height=3" width="100%"/>
 
-![](https://github-readme-stats.vercel.app/api?username=Imaad18&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+<br/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Imaad18&theme=radical&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Imaad18&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Imaad18&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
----
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=Imaad18&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
-### ✍️ Random Dev Quote
+## ◈ GitHub Activity
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=Imaad18&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=c084fc&icon_color=a78bfa&text_color=cdd6f4&ring_color=7c3aed" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imaad18&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=c084fc&text_color=cdd6f4" height="165"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Imaad18&theme=tokyonight&hide_border=true&background=0d1117&ring=c084fc&fire=a78bfa&currStreakLabel=c084fc&sideLabels=a78bfa&dates=6e7681" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Imaad18&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=c084fc&line=7c3aed&point=a78bfa&area=true&area_color=1a0533" width="100%"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a0533&height=3" width="100%"/>
+
+<br/>
+
+## ◈ Kaggle Achievements
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=Imaad18&icon=0&color=1)](https://visitcount.itsvg.in)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Competitions%20Expert-0d1117?style=for-the-badge&logo=kaggle&logoColor=20beff)](https://kaggle.com/imaadmahmood)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebooks%20Expert-0d1117?style=for-the-badge&logo=kaggle&logoColor=20beff)](https://kaggle.com/imaadmahmood)
+
+| Competitions | Notebooks | Datasets | Code Notebooks |
+|:---:|:---:|:---:|:---:|
+| **Rank 885** / 202,866 | **Rank 131** / 59,890 | 15 | 96 |
+
+**Medals:** 🥇 2 Gold · 🥈 5 Silver · 🥉 15 Bronze
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:0d1117&height=3" width="100%"/>
+
+<br/>
+
+## ◈ GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Imaad18&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a0533&height=3" width="100%"/>
+
+<br/>
+
+## ◈ Let's Connect
+
+<div align="center">
+
+**Open to internships, full-time roles, and collaborations in ML, AI, and Generative AI engineering.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077b5)](https://linkedin.com/in/imaad-mahmood-40388831b)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Follow-0d1117?style=for-the-badge&logo=kaggle&logoColor=20beff)](https://kaggle.com/imaadmahmood)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:imaad18102004@gmail.com)
+
+<br/>
+
+[![](https://visitcount.itsvg.in/api?id=Imaad18&icon=5&color=6)](https://visitcount.itsvg.in)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0533,100:0d1117&height=120&section=footer" />

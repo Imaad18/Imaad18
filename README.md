@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Imaad%20Mahmood&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Generative%20AI%20Specialist&descAlignY=58&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0533,100:0d0221&height=220&section=header&text=Imaad%20Mahmood&fontSize=52&fontColor=c084fc&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Generative%20AI%20Specialist&descAlignY=58&descAlign=50&descColor=a78bfa" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Kaggle+Competitions+Expert+%E2%80%94+Top+0.5%25+Globally+%F0%9F%8F%86;Building+RAG+Pipelines+%7C+LLM+Systems+%7C+ML+APIs;Stanford+%7C+IBM+%7C+Microsoft+Azure+Certified;Turning+data+into+deployed%2C+production-ready+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Kaggle+Competitions+Expert+%E2%80%94+Top+0.5%25+Globally+%F0%9F%8F%86;Building+RAG+Pipelines+%7C+LLM+Systems+%7C+ML+APIs;Stanford+%7C+IBM+%7C+Microsoft+Azure+Certified;Turning+data+into+deployed%2C+production-ready+AI)](https://git.io/typing-svg)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:0d1117&height=3" width="100%"/>
+
+<br/>
 
 <div align="center">
 
@@ -22,17 +24,21 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a0533&height=3" width="100%"/>
 
-## Who I Am
+<br/>
+
+## ◈ Who I Am
 
 I'm an **AI/ML Engineer and Data Scientist** specializing in **Generative AI, LLM systems, and end-to-end ML pipelines**. I combine competition-grade modeling skills (top 0.5% on Kaggle) with real-world engineering — building and deploying intelligent systems that go beyond notebooks into production.
 
 Currently focused on: **RAG architectures, LLMOps, and AI-powered API products.**
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:0d1117&height=3" width="100%"/>
 
-## Featured Projects
+<br/>
+
+## ◈ Featured Projects
 
 <table>
 <tr>
@@ -73,9 +79,11 @@ ML-powered **stock and market forecasting** tool. Applies time-series modeling a
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a0533&height=3" width="100%"/>
 
-## What Clients Say
+<br/>
+
+## ◈ What Clients Say
 
 > *"Imaad delivered high-quality AI and LLM solutions with excellent attention to scalability and reliability. Communication was clear, deadlines were met, and he proactively improved our automation workflows. Highly professional."*
 >
@@ -85,9 +93,11 @@ ML-powered **stock and market forecasting** tool. Applies time-series modeling a
 >
 > — ⭐⭐⭐⭐⭐ **Python Developer — Data Processing** — Upwork
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:0d1117&height=3" width="100%"/>
 
-## Certifications
+<br/>
+
+## ◈ Certifications
 
 | Issuer | Certification |
 |---|---|
@@ -97,9 +107,11 @@ ML-powered **stock and market forecasting** tool. Applies time-series modeling a
 | 🔴 Arizona State University | Modern Statistics for Data-Driven Decision-Making |
 | 🔍 Google | Prompting Essentials |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a0533&height=3" width="100%"/>
 
-## Core Skills
+<br/>
+
+## ◈ Core Skills
 
 <table>
 <tr>
@@ -144,52 +156,60 @@ ML-powered **stock and market forecasting** tool. Applies time-series modeling a
 
 **Languages:** Python · C++ · R · SQL
 
----
+<br/>
 
-## Tech Stack
+## ◈ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
-![MLflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=c084fc)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=PyTorch&logoColor=ee4c2c)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=TensorFlow&logoColor=ff6f00)
+![Keras](https://img.shields.io/badge/Keras-0d1117?style=flat-square&logo=Keras&logoColor=d00000)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=f7931e)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=c084fc)
+![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=44b78b)
+![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=fe4b4b)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=c084fc)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=a78bfa)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=4dabf7)
+![Plotly](https://img.shields.io/badge/Plotly-0d1117?style=flat-square&logo=plotly&logoColor=7c3aed)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-0d1117?style=flat-square&logo=apachespark&logoColor=e25a1c)
+![MLflow](https://img.shields.io/badge/MLflow-0d1117?style=flat-square&logo=mlflow&logoColor=0194e2)
+![Azure](https://img.shields.io/badge/Azure-0d1117?style=flat-square&logo=microsoftazure&logoColor=0078d4)
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=a78bfa)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=c%2B%2B&logoColor=00599c)
+![R](https://img.shields.io/badge/R-0d1117?style=flat-square&logo=r&logoColor=276dc3)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=f05033)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:0d1117&height=3" width="100%"/>
 
-## GitHub Activity
+<br/>
+
+## ◈ GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Imaad18&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imaad18&theme=radical&hide_border=true&layout=compact&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Imaad18&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=c084fc&icon_color=a78bfa&text_color=cdd6f4&ring_color=7c3aed" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imaad18&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=c084fc&text_color=cdd6f4" height="165"/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Imaad18&theme=radical&hide_border=true" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Imaad18&theme=tokyonight&hide_border=true&background=0d1117&ring=c084fc&fire=a78bfa&currStreakLabel=c084fc&sideLabels=a78bfa&dates=6e7681" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Imaad18&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=c084fc&line=7c3aed&point=a78bfa&area=true&area_color=1a0533" width="100%"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a0533&height=3" width="100%"/>
 
-## Kaggle Achievements
+<br/>
+
+## ◈ Kaggle Achievements
 
 <div align="center">
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-Competitions%20Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/imaadmahmood)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Notebooks%20Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/imaadmahmood)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Competitions%20Expert-0d1117?style=for-the-badge&logo=kaggle&logoColor=20beff)](https://kaggle.com/imaadmahmood)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebooks%20Expert-0d1117?style=for-the-badge&logo=kaggle&logoColor=20beff)](https://kaggle.com/imaadmahmood)
 
 | Competitions | Notebooks | Datasets | Code Notebooks |
 |:---:|:---:|:---:|:---:|
@@ -199,32 +219,38 @@ ML-powered **stock and market forecasting** tool. Applies time-series modeling a
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:0d1117&height=3" width="100%"/>
 
-## GitHub Trophies
+<br/>
+
+## ◈ GitHub Trophies
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Imaad18&theme=shadow_blue&no-frame=true&no-bg=true&margin-w=6&column=7)
+![](https://github-profile-trophy.vercel.app/?username=Imaad18&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a0533&height=3" width="100%"/>
 
-## Let's Connect
+<br/>
+
+## ◈ Let's Connect
 
 <div align="center">
 
 **Open to internships, full-time roles, and collaborations in ML, AI, and Generative AI engineering.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imaad-mahmood-40388831b)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/imaadmahmood)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imaad18102004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077b5)](https://linkedin.com/in/imaad-mahmood-40388831b)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Follow-0d1117?style=for-the-badge&logo=kaggle&logoColor=20beff)](https://kaggle.com/imaadmahmood)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:imaad18102004@gmail.com)
 
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=Imaad18&icon=5&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Imaad18&icon=5&color=6)](https://visitcount.itsvg.in)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0533,100:0d1117&height=120&section=footer" />

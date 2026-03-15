@@ -36,28 +36,38 @@ Currently focused on: **RAG architectures, LLMOps, and AI-powered API products.*
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### Enterprise RAG & LLMOps Pipeline
-**Local, enterprise-grade** Retrieval-Augmented Generation system with automated evaluation pipelines using LangChain, ChromaDB, and local LLMs.
+### [Enterprise RAG & LLMOps Evaluation Pipeline](https://github.com/Imaad18/enterprise-rag-eval)
+Production-ready **local RAG system** with a full automated evaluation suite. Uses LangChain + ChromaDB for retrieval, integrates local LLMs (no external API cost), and runs pytest-based answer quality benchmarks — built to enterprise standards.
 
-`LangChain` `ChromaDB` `Local LLM` `pytest` `Python`
-
-</td>
-<td width="33%" valign="top">
-
-### FluxCode — AI Coding Assistant
-Intelligent AI coding assistant and debugger with real-time code analysis, suggestions, and automated debugging workflows.
-
-`LLM` `FastAPI` `Python` `Streamlit`
+`LangChain` `ChromaDB` `Local LLM` `LLMOps` `pytest` `Python`
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### Movie Recommendation Engine
-Content-based recommendation system using NLP and similarity modeling to deliver personalized movie suggestions at scale.
+### [FluxCode — AI Coding Assistant & Debugger](https://github.com/Imaad18/FluxCode)
+Intelligent AI-powered coding assistant with **real-time code analysis**, automated debugging, and contextual suggestions. Full-stack app with a FastAPI backend and interactive Streamlit frontend.
 
-`scikit-learn` `NLP` `Pandas` `Python`
+`LLM` `FastAPI` `Streamlit` `Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [FinCast Pro — Financial Forecasting](https://github.com/Imaad18/fincast-pro)
+ML-powered **stock and market forecasting** tool. Applies time-series modeling and predictive analytics to financial data, delivering forward-looking insights through an interactive dashboard.
+
+`PyTorch` `Pandas` `Plotly` `Streamlit` `Python`
+
+</td>
+<td width="50%" valign="top">
+
+### [Movie Recommendation Engine](https://github.com/Imaad18/Movie-Recommendation-System)
+**Content-based recommendation system** using NLP and cosine similarity to surface personalized movie suggestions. Processes metadata, genres, and plot features to model user preferences at scale.
+
+`scikit-learn` `NLP` `Pandas` `Streamlit` `Python`
 
 </td>
 </tr>

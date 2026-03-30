@@ -174,9 +174,13 @@ ML-powered **stock and market forecasting** tool. Applies time-series modeling a
 ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=4dabf7)
 ![Plotly](https://img.shields.io/badge/Plotly-0d1117?style=flat-square&logo=plotly&logoColor=7c3aed)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-0d1117?style=flat-square&logo=apachespark&logoColor=e25a1c)
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-0d1117?style=flat-square&logo=apachehadoop&logoColor=66ccff)
 ![MLflow](https://img.shields.io/badge/MLflow-0d1117?style=flat-square&logo=mlflow&logoColor=0194e2)
 ![Azure](https://img.shields.io/badge/Azure-0d1117?style=flat-square&logo=microsoftazure&logoColor=0078d4)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-0d1117?style=flat-square&logo=googlesheets&logoColor=34a853)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-0d1117?style=flat-square&logo=looker&logoColor=4285f4)
 ![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=a78bfa)
+![GNU Octave](https://img.shields.io/badge/GNU%20Octave-0d1117?style=flat-square&logo=octave&logoColor=0790c0)
 ![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=c%2B%2B&logoColor=00599c)
 ![R](https://img.shields.io/badge/R-0d1117?style=flat-square&logo=r&logoColor=276dc3)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=f05033)
@@ -189,10 +193,10 @@ ML-powered **stock and market forecasting** tool. Applies time-series modeling a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Imaad18&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=c084fc&icon_color=a78bfa&text_color=cdd6f4&ring_color=7c3aed" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imaad18&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=c084fc&text_color=cdd6f4" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Imaad18&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=c084fc&icon_color=a78bfa&text_color=cdd6f4&ring_color=7c3aed&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imaad18&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=c084fc&text_color=cdd6f4&cache_seconds=1800" height="165"/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Imaad18&theme=tokyonight&hide_border=true&background=0d1117&ring=c084fc&fire=a78bfa&currStreakLabel=c084fc&sideLabels=a78bfa&dates=6e7681" />
+<img src="https://streak-stats.demolab.com/?user=Imaad18&theme=tokyonight&hide_border=true&background=0d1117&ring=c084fc&fire=a78bfa&currStreakLabel=c084fc&sideLabels=a78bfa&dates=6e7681" />
 
 <br/>
 

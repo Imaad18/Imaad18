@@ -244,6 +244,9 @@ ML-powered **stock and market forecasting** tool. Applies time-series modeling a
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077b5)](https://linkedin.com/in/imaad-mahmood-40388831b)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Follow-0d1117?style=for-the-badge&logo=kaggle&logoColor=20beff)](https://kaggle.com/imaadmahmood)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-0d1117?style=for-the-badge&logo=upwork&logoColor=6fda44)](https://www.upwork.com/freelancers/~01123f5a9ca0d6d2fb?mp_source=share)
+[![Contra](https://img.shields.io/badge/Contra-Portfolio-0d1117?style=for-the-badge&logo=contra&logoColor=ff4d00)](https://contra.com/imaad_mahmood_eu0e70vl?referralExperimentNid=DEFAULT_REFERRAL_PROGRAM&referrerUsername=imaad_mahmood_eu0e70vl)
+[![Coursera](https://img.shields.io/badge/Coursera-Certifications-0d1117?style=for-the-badge&logo=coursera&logoColor=0056d2)](https://www.coursera.org/learner/imaad-mahmood-2557)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:imaad18102004@gmail.com)
 
 <br/>
